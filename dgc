@@ -242,10 +242,10 @@ class TwoLayerNet:
 
 
 import os
-os.chdir('C://Users//shiom//OneDrive - 学校法人立命館\輪読ゼミ//deep-learning-from-scratch-master//dataset')
+os.chdir('__file名__')
 
 import os
-os.chdir('C://Users//shiom//OneDrive - 学校法人立命館//輪読ゼミ//deep-learning-from-scratch-master//ch05')
+os.chdir('__file名__')
 
 #勾配確認
 import sys, os
