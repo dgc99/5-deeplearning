@@ -111,7 +111,7 @@ class SoftmaxWithLoss:
         return dx
 
 import os
-os.chdir('C://Users//shiom\OneDrive - 学校法人立命館\輪読ゼミ//deep-learning-from-scratch-master//common')
+os.chdir('__file名__')
 
 # 誤差逆伝播法に対応した二層ニューラルネットワーク
 import sys, os
